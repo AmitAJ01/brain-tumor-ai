@@ -1,6 +1,6 @@
 # BrainTumorAI: Deep Learning Based Brain Tumor Segmentation and Classification from MRI Images
 
-> **Academic Course Project:** Design and Architectural Patterns 
+> **Academic Course Project:** Design and Architectural Patterns.
 > **Team:**
 > - Naman (2023UCS1679)
 > - Saurabh Kumar (2023UCS1710)
