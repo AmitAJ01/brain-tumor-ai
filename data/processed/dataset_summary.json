@@ -1,0 +1,29 @@
+{
+  "total_samples": 3064,
+  "image_size": [
+    224,
+    224
+  ],
+  "splits": {
+    "train": 2479,
+    "val": 246,
+    "test": 339
+  },
+  "class_breakdown": {
+    "train": {
+      "glioma": 1154,
+      "meningioma": 573,
+      "pituitary": 752
+    },
+    "val": {
+      "glioma": 114,
+      "meningioma": 57,
+      "pituitary": 75
+    },
+    "test": {
+      "glioma": 158,
+      "meningioma": 78,
+      "pituitary": 103
+    }
+  }
+}

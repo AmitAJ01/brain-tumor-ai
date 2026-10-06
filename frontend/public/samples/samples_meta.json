@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1004",
+    "class_name": "pituitary",
+    "patient_id": "112746",
+    "filename": "pituitary_sample_1004.png",
+    "url": "/samples/pituitary_sample_1004.png"
+  },
+  {
+    "id": "106",
+    "class_name": "meningioma",
+    "patient_id": "108514",
+    "filename": "meningioma_sample_106.png",
+    "url": "/samples/meningioma_sample_106.png"
+  },
+  {
+    "id": "1846",
+    "class_name": "glioma",
+    "patient_id": "MR048294",
+    "filename": "glioma_sample_1846.png",
+    "url": "/samples/glioma_sample_1846.png"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "total_images": 3064,
+  "unique_patients": 233,
+  "class_distribution": {
+    "meningioma": 708,
+    "glioma": 1426,
+    "pituitary": 930,
+    "unknown": 0
+  },
+  "image_shapes": [
+    [
+      512,
+      512
+    ],
+    [
+      256,
+      256
+    ]
+  ],
+  "images_with_valid_tumor_masks": 3064,
+  "corrupted_files_count": 0,
+  "corrupted_files": []
+}
